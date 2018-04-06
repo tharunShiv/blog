@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Link to next page](https://https://github.com/tharunShiv/blog/one.md)
+
 [Link](one.md) and ![Image](src)
 ```
 
