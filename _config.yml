@@ -16,14 +16,14 @@ avatar: https://raw.githubusercontent.com/tharunShiv/blog/master/images/avatar.j
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+footer-links: https://www.colsheet.com
   dribbble:
   email: asktharun@gmail.com
   facebook:
   flickr:
   github: tharunShiv
   instagram:
-  linkedin: in/tharunShiv
+  linkedin: tharunShiv
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: followtharun
